@@ -25,6 +25,8 @@ My research interests include **Efficient Recommender Systems**, **Event-based V
 
 
 # 🔥 News
+
+- *2025.08*: &nbsp;🎓 Started Master in Computational Science and Engineering at Harvard University
 - *2025.03*: &nbsp;🎉🎉 Starting Machine Learning Engineering Internship at Xiaohongshu (Rednotes), Shanghai
 - *2024.09*: &nbsp;🏆 Received National Scholarship (Top 1%) 
 - *2024.07*: &nbsp;🔬 Started Summer Research Internship at University of Notre Dame with Prof. Yiyu Shi 
@@ -79,20 +81,20 @@ Yiyu Shi, Ruiyang Qin, Haoxinran Yu, **Lixuan Wei**, et al. *(Nature Medicine, u
 - *2021.09 - 2025.06*, B.Eng. Electronic Information Engineering (AI Program), Wuhan University, Wuhan, China. GPA: 3.86/4.0 (Top 5%)
 - *2024.07 - 2024.09*, Summer Research Intern, University of Notre Dame, IN, USA. Mentor: Prof. Yiyu Shi 
 
-# 💬 Invited Talks
-- *Coming soon*, Presentation opportunities to be updated
+<!-- # 💬 Invited Talks
+- *Coming soon*, Presentation opportunities to be updated -->
 
 # 💻 Internships
 - *2025.03 - 2025.06*, Machine Learning Engineering Intern, Advertising Algorithm Team, Xiaohongshu (Rednotes), Shanghai, China
-  - Designed production-grade Calibration Tower resolving severe prediction bias (PAOA 0.41→0.08), achieving +1.21% eCPM, -1.83% CPA in A/B tests
-  - Engineered Temporal Interest Network (TIN) for 20M+ DAU recommender system, delivering +2.13% eCPM lift and -1.65% CPA reduction
+  <!-- - Designed production-grade Calibration Tower resolving severe prediction bias (PAOA 0.41→0.08), achieving +1.21% eCPM, -1.83% CPA in A/B tests
+  - Engineered Temporal Interest Network (TIN) for 20M+ DAU recommender system, delivering +2.13% eCPM lift and -1.65% CPA reduction -->
 - *2024.03 - 2024.09*, Research Assistant, University of Notre Dame, IN, USA
-  - Identified fairness issues in ASR + LLM pipelines for speech-impaired users; benchmarked 15 ASR and 23 LLM models
+  <!-- - Identified fairness issues in ASR + LLM pipelines for speech-impaired users; benchmarked 15 ASR and 23 LLM models -->
 - *2023.06 - 2025.03*, Research Assistant, Wuhan University, Wuhan, China
-  - Built end-to-end event-frame fusion pipeline for occlusion robustness; outperformed SOTA with 90% depth error reduction and +5dB PSNR gain
+  <!-- - Built end-to-end event-frame fusion pipeline for occlusion robustness; outperformed SOTA with 90% depth error reduction and +5dB PSNR gain -->
 
-# 🛠️ Skills
+<!-- # 🛠️ Skills
 **Programming:** Python, Bash, SQL, C/C++, Linux  
 **ML/AI Frameworks:** PyTorch, Scikit-learn, TensorFlow, Keras, XGBoost, Transformers, Hugging Face  
 **Data/Tools:** Spark, Kafka, AWS, Docker, Git, Jupyter, OpenCV, Librosa, Torchaudio, ROS  
-**Professional:** Technical Writing, Experiment Design, A/B Testing, Communication, Team Leadership
+**Professional:** Technical Writing, Experiment Design, A/B Testing, Communication, Team Leadership -->
