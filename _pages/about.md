@@ -34,41 +34,36 @@ My research interests include **Efficient Recommender Systems**, **Event-based V
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='images/prcv.png' alt="PRCV" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[All-in-Focus Seeing Through Occlusion with Event and Frame](docs/PRCV.pdf)
+**All-in-Focus Seeing Through Occlusion with Event and Frame**
 
 **Lixuan Wei**, Yiche Liu, Kejing Xia, Huijiao Wang, Lei Yu
 
-[**PDF**](docs/PRCV.pdf)
-- Architected an end-to-end PyTorch pipeline for representation learning to see through severe occlusions, applying novel signal processing and feature engineering to fuse sparse, real-time event data with dense, static image frames.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/tmm1.png' alt="TMM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[All-in-Focus Imaging from Events with Occlusions](docs/TMM1.pdf)
+**All-in-Focus Imaging from Events with Occlusions**
 
 Yichen Liu*, **Lixuan Wei***, Yufei Guo, Lei Yu
 
-[**PDF Part 1**](docs/TMM1.pdf) [**PDF Part 2**](docs/TMM2.pdf)
-- Engineered a deep learning model leveraging Swin-Transformer, dynamic convolutions, and a multi-task learning framework by designing a composite loss to balance competing accuracy and perceptual quality metrics.
-- *Additional visualization:* <img src='images/tmm2.png' alt="TMM Part 2" width="50%" style="margin-top: 10px;">
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Workshop</div><img src='images/ijcai.png' alt="IJCAI" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Spatio-temporal Event Transformer on Versatile Tasks for Human Behavior Analysis](docs/IJCAI.pdf)
+**A Spatio-temporal Event Transformer on Versatile Tasks for Human Behavior Analysis**
 
 Kejing Xia*, **Lixuan Wei***, Lei Yu
 
-[**PDF**](docs/IJCAI.pdf)
-- Designed a multi-task spatiotemporal Transformer performing joint classification and signal regression with a hybrid KL-Divergence + Pearson correlation loss.
 </div>
 </div>
 
-- Serving Individuals with Language Impairments using Automatic Speech Recognition Models and Large Language Models: Challenges and Opportunities, Yiyu Shi, Ruiyang Qin, Haoxinran Yu, **Lixuan Wei**, et al., **Nature Medicine** (under review)
+**Serving Individuals with Language Impairments using Automatic Speech Recognition Models and Large Language Models: Challenges and Opportunities**
+
+Yiyu Shi, Ruiyang Qin, Haoxinran Yu, **Lixuan Wei**, et al. *(Nature Medicine, under review)*
 
 # 🎖 Honors and Awards
 - *2024.10* National Scholarship (Top 1%) 
