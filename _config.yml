@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Lixuan (Selina) Wei"
-description              : "Aspiring Computational Scientist & Machine Learning Engineer focused on building efficient, fair, and reliable AI systems across recommendation, multimodal sensing, and healthcare."
-repository               : "selinawei/selina_w.github.io"
+description              : "Master's student in Computational Science and Engineering at Harvard University, working on efficient inference for large language and vision-language models, diffusion LLM decoding, and large-scale recommendation systems."
+repository               : "selinawei/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Lixuan (Selina) Wei"
-  avatar           : "images/homepageimage.png"
+  avatar           : "images/profile.jpg"
   bio              : "Harvard University · Computational Science & Engineering"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :   # TODO: fill in real Google Scholar profile URL, e.g. "https://scholar.google.com/citations?user=XXXX"
   email            : "lwei@g.harvard.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

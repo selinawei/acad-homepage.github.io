@@ -25,3 +25,12 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# Stdlib gems unbundled from Ruby 3.4+ — needed for local `bundle exec jekyll serve`.
+# GitHub Pages builds ignore this Gemfile, so these are local-development only.
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "ostruct"
+gem "webrick"
