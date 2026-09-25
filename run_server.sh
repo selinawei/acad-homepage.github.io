@@ -14,6 +14,12 @@ if [ -d /opt/homebrew/opt/ruby/bin ]; then
   export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
 fi
 
+# Bundler fails to install gems under a path with non-ASCII characters
+# (e.g. 个人资质/), so keep gems in an ASCII-only directory.
+export LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8
+export BUNDLE_PATH="$HOME/.homepage-gems"
+bundle check >/dev/null 2>&1 || bundle install
+
 SHIM="$(mktemp -t jekyll_taint_shim).rb"
 trap 'rm -f "$SHIM"' EXIT
 cat > "$SHIM" <<'RUBY'
@@ -28,4 +34,4 @@ class Object
 end
 RUBY
 
-RUBYOPT="-r$SHIM" exec bundle exec jekyll serve --livereload --host 127.0.0.1 --port 4000
+RUBYOPT="-r$SHIM" exec bundle exec jekyll serve --livereload --force_polling --host 127.0.0.1 --port 4000

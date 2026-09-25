@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lixuan (Selina) Wei"
-description              : "Master's student in Computational Science and Engineering at Harvard University, working on efficient inference for large language and vision-language models, diffusion LLM decoding, and large-scale recommendation systems."
+description              : "Lixuan (Selina) Wei — M.S. in Computational Science and Engineering at Harvard University. Diffusion LLM decoding, efficient LLM/VLM inference, and LLM-as-a-judge."
 repository               : "selinawei/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
-  googlescholar    :   # TODO: fill in real Google Scholar profile URL, e.g. "https://scholar.google.com/citations?user=XXXX"
+  googlescholar    : "https://scholar.google.com/citations?user=Xz-KUDoAAAAJ&hl=en"
   email            : "lwei@g.harvard.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "selinawei"
   google_plus      :
   keybase          :
   instagram        :
@@ -91,6 +91,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - vendor/bundle
+  - Gemfile.lock
 keep_files:
   - .git
   - .svn

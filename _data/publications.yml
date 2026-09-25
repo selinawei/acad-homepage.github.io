@@ -1,0 +1,61 @@
+# Publications, newest first.
+# "Lixuan Wei" is highlighted automatically; append * for equal contribution.
+# image_credit is optional (shown under the thumbnail).
+
+- title: "Early-Bird Decoding: Accelerating Diffusion LLMs with Learnable Block Sizes and Parallel Sampling"
+  authors: "Lixuan Wei*, Wei Zhou*, Jianwen Wu, Yipeng Shen, Meiling Wang, Haoran You"
+  venue: "Preprint"
+  venue_full: "arXiv, 2026"
+  year: 2026
+  image: images/ebdecode.png
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2609.16450" }
+    - { label: "PDF", url: "https://arxiv.org/pdf/2609.16450" }
+
+- title: "Assessing the Use of Automatic Speech Recognition and Large Language Models for Individuals with Language Impairments"
+  authors: "Gelei Xu, Haoxinran Yu, Lixuan Wei, Yuxuan Liu, Dancheng Liu, Chenhui Xu, Jiajie Li, Ahmed Abbasi, Jinjun Xiong, Xiufan Yu, Zhi Zheng, Yiyu Shi, Ruiyang Qin"
+  venue: "Nature Communications"
+  venue_full: "Nature Communications, 2026"
+  year: 2026
+  image: images/natcomm.png
+  image_credit: "Figure from Xu et al., CC BY 4.0"
+  links:
+    - { label: "Paper", url: "https://www.nature.com/articles/s41467-026-76677-z" }
+    - { label: "Preprint", url: "https://www.researchgate.net/publication/394004660_Analysis_Serving_Individuals_with_Language_Impairments_using_Automatic_Speech_Recognition_Models_and_Large_Language_Models_Challenges_and_Opportunities" }
+
+- title: "MetaState: Persistent Working Memory Enhances Reasoning in Discrete Diffusion Language Models"
+  authors: "Kejing Xia, Mingzhe Li, Lixuan Wei, Zhenbang Du, Xiangchi Yuan, Dachuan Shi, Qirui Jin, Wenke Lee"
+  venue: "COLM 2026"
+  venue_full: "Conference on Language Modeling (COLM), 2026"
+  year: 2026
+  image: images/metastate.png
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2603.01331" }
+    - { label: "PDF", url: "https://arxiv.org/pdf/2603.01331" }
+
+- title: "All-in-Focus Imaging from Events with Occlusions"
+  authors: "Yichen Liu*, Lixuan Wei*, Yufei Guo, Lei Yu"
+  venue: "IEEE TMM"
+  venue_full: "IEEE Transactions on Multimedia, 2025"
+  year: 2025
+  image: images/tmm1.png
+  links:
+    - { label: "Paper", url: "https://ieeexplore.ieee.org/document/10891482" }
+
+- title: "All-in-Focus Seeing Through Occlusion with Event and Frame"
+  authors: "Lixuan Wei, Yichen Liu, Kejing Xia, Huijiao Wang, Lei Yu"
+  venue: "PRCV 2025"
+  venue_full: "Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025"
+  year: 2025
+  image: images/prcv.png
+  links:
+    - { label: "Paper", url: "https://link.springer.com/chapter/10.1007/978-981-95-5679-3_9" }
+
+- title: "A Spatio-temporal Event Transformer on Versatile Tasks for Human Behavior Analysis"
+  authors: "Kejing Xia*, Lixuan Wei*, Lei Yu"
+  venue: "IJCAI Workshop"
+  venue_full: "IJCAI Workshop (CEUR-WS Vol. 3848), 2024"
+  year: 2024
+  image: images/ijcai.png
+  links:
+    - { label: "PDF", url: "https://ceur-ws.org/Vol-3848/paper_4.pdf" }

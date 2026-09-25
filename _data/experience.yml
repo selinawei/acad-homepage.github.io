@@ -1,0 +1,55 @@
+industry:
+  - org: "Adobe"
+    role: "AI/ML Intern"
+    team: "Adobe Express AI Foundation"
+    place: "San Jose, CA"
+    dates: "May – Aug 2026"
+  - org: "Xiaohongshu (Rednote)"
+    role: "Machine Learning Engineer Intern"
+    team: "Ads Recommendation"
+    place: "Shanghai"
+    dates: "Mar – Jun 2025"
+
+research:
+  - org: "Purdue University"
+    role: "Research Intern"
+    team: "with Prof. Haoran You"
+    url: "https://www.haoranyou.com/"
+    dates: "Dec 2025 – 2026"
+  - org: "Georgia Institute of Technology"
+    role: "Research Collaborator"
+    team: "GTISC Lab"
+    dates: "Mar – May 2026"
+  - org: "University of Notre Dame"
+    role: "Research Intern"
+    team: "with Prof. Yiyu Shi"
+    url: "https://engineering.nd.edu/faculty/yiyu-shi/"
+    dates: "May – Sep 2024"
+  - org: "Wuhan University"
+    role: "Undergraduate Researcher"
+    team: "with Prof. Lei Yu"
+    url: "https://scholar.google.com/citations?hl=en&user=Klc_GHUAAAAJ"
+    dates: "Aug 2023 – Mar 2025"
+
+education:
+  - org: "Harvard University"
+    role: "M.S. in Computational Science and Engineering"
+    team: "Cross-registered at MIT EECS"
+    dates: "Sep 2025 – Dec 2026 (expected)"
+  - org: "Wuhan University"
+    role: "B.Eng. in Electronic Information Engineering (AI Program)"
+    team: "GPA 3.86 / 4.0 · National Scholarship"
+    dates: "Sep 2021 – Jun 2025"
+  - org: "Beijing National Day School (BNDS)"
+    role: "Middle & High School"
+    team: "Beijing, China"
+    dates: "Sep 2015 – Jun 2021"
+
+honors:
+  - { year: "2024", text: "National Scholarship (top 1%)" }
+  - { year: "2024", text: "First Academic Scholarship (top 5%); Luojia Distinguished Exchange Scholarship" }
+  - { year: "2024", text: "Honorable Mention, Mathematical Contest in Modeling (MCM)" }
+  - { year: "2024", text: "National Innovation & Entrepreneurship Competition — National Level" }
+  - { year: "2023", text: "Outstanding Contribution Award, Mengyou Intelligent Technology" }
+  - { year: "2023", text: "Merit Academic Scholarship (top 15%); Merit Student" }
+  - { year: "2022", text: "Outstanding Academic Scholarship (top 10%); Merit Student; Third Prize, TI Cup Electronic Design Contest" }

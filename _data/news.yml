@@ -1,0 +1,22 @@
+# Newest first. `text` accepts inline HTML.
+
+- date: "2026.09"
+  text: "<strong>Early-Bird Decoding</strong> is out on <a href=\"https://arxiv.org/abs/2609.16450\">arXiv</a>."
+
+- date: "2026.09"
+  text: "Our paper on ASR + LLMs for individuals with language impairments is published in <strong>Nature Communications</strong>."
+
+- date: "2026.07"
+  text: "<strong>MetaState</strong> accepted at <strong>COLM 2026</strong>."
+
+- date: "2026.05"
+  text: "Joined <strong>Adobe</strong> (Adobe Express AI Foundation) as an AI/ML intern in San Jose."
+
+- date: "2025.09"
+  text: "Started my M.S. in Computational Science &amp; Engineering at <strong>Harvard</strong>."
+
+- date: "2025.03"
+  text: "Joined <strong>Xiaohongshu (Rednote)</strong> Ads Recommendation as an MLE intern."
+
+- date: "2024.10"
+  text: "Received the <strong>National Scholarship</strong> (top 1%)."
